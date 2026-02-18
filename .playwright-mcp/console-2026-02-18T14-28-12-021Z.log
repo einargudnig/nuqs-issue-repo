@@ -1,0 +1,5 @@
+[  266942ms] [ERROR] WebSocket connection to 'ws://localhost:5174/?token=FrJTzjFcm6np' failed:  @ http://localhost:5174/@vite/client:744
+[  277800ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5174/node_modules/.vite/deps/react.js?v=0a73daa1:0
+[  277800ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5174/node_modules/.vite/deps/react-dom_client.js?v=0a73daa1:0
+[  277802ms] Failed to fetch dynamically imported module: http://localhost:5174/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx
+[  277801ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5174/node_modules/.vite/deps/react-router_dom.js?v=0a73daa1:0

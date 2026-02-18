@@ -1,0 +1,4 @@
+[     508ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5174/node_modules/.vite/deps/react.js?v=52e0b8b7:0
+[     518ms] Failed to fetch dynamically imported module: http://localhost:5174/node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx
+[     508ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5174/node_modules/.vite/deps/react-dom_client.js?v=52e0b8b7:0
+[     508ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5174/node_modules/.vite/deps/react-router_dom.js?v=52e0b8b7:0
